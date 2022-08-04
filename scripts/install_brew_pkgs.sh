@@ -21,3 +21,7 @@ brew install actionlint
 brew install python@3.10
 # shellcheck disable=SC2016
 echo 'export PATH="/opt/homebrew/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
+
+brew install mysql-client
+# shellcheck disable=SC2016
+echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc

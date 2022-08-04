@@ -13,7 +13,7 @@ Install these apps:
 * [Cakebrew](https://www.cakebrew.com/)
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
-* [MySQL Shell](https://dev.mysql.com/downloads/shell/)
+* [NordLocker](https://nordlocker.com/download/mac/)
 
 Install these apps from the App Store:
 
