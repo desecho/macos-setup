@@ -1,0 +1,34 @@
+---
+name: Test
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  test:
+    name: Run tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 15.x
+          registry-url: https://registry.npmjs.org
+
+      - name: Install test requirements
+        run: |
+          make install-linters-binaries
+          sudo apt install shellcheck -y
+          npm install markdownlint-cli prettier -g
+
+      - name: Run tests
+        run: make lint

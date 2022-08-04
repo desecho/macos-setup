@@ -1,0 +1,8 @@
+---
+- include: packages/npm.yml
+
+- include: doctl.yml
+- include: s3cmd.yml
+- include: aliases_and_commands.yml
+- include: git.yml
+- include: misc.yml

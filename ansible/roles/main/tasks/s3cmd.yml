@@ -1,0 +1,7 @@
+---
+- name: Add s3cmd config
+  template:
+    src: .s3cfg
+    dest: "{{ lookup('env', 'HOME') }}/.s3cfg"
+    owner: "{{ lookup('env', 'USER') }}"
+    mode: "600"

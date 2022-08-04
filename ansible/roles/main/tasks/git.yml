@@ -1,0 +1,8 @@
+---
+- name: Add git config
+  template:
+    src: .gitconfig
+    dest: "{{ lookup('env', 'HOME') }}/.gitconfig"
+    owner: "{{ lookup('env', 'USER') }}"
+    mode: "600"
+  when: full_name and email

@@ -1,0 +1,15 @@
+---
+ansible_python_interpreter: /opt/homebrew/opt/python@3.10/bin/python3
+
+npm_packages:
+  - yarn
+  - fx
+  - markdownlint-cli
+  - prettier
+  - markdown-link-check
+  - json2yaml
+  - "@vue/cli"
+
+default_editor: nano
+
+shell_init_file: ".zshrc"
