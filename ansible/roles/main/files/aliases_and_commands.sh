@@ -1,5 +1,4 @@
 #!/bin/bash
-# shellcheck disable=SC2148
 
 # Custom names are for `getsecret`, `fastpush`, `fastcommit`.
 # These are the names which don't start with the command they are calling.
