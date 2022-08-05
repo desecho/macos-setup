@@ -28,6 +28,7 @@ Configure:
 
 * Run Docker
 * Open `Preferences` → `General` → enable `Start Docker Desktop when you log in`
+* Open `Preferences` → `Software updates` → enable `Always download updates`
 
 ### Configure kubectl
 
@@ -48,26 +49,34 @@ Open `Finder` → `Preferences` → `Advanced`
 
 ![Finder preferences advanced](images/finder-preferences-advanced.png)
 
-Open `System Preferences` → `Keyboard` → `Keyboard`
+Open `Contacts` → `Preferences` → `General`
+
+* `Sort By` → select `First Name`
+
+### System preferences
+
+Open `System Preferences`
+
+Open `Keyboard` → `Keyboard`
 
 * Enable `Use F1, F2, etc. keys as standard function keys`
 * `Key repeat` - set to the fastest setting
 
-Open `System Preferences` → `Keyboard` → `Input Sources`
+Open `Keyboard` → `Input Sources`
 
 * Add `Russian - PC`
 
-Open `System Preferences` → `Dock & Menu Bar`
+Open `Dock & Menu Bar`
 
 * `Minimize windows using` → set `Scale effect`
 * enable `Minimize windows into application icon`
 * enable `Automatically hide and show the Dock`
 
-Open `System Preferences` → `Software Update`
+Open `Software Update`
 
 * enable `Automatically keep my Mac up to date`
 
-Open `System Preferences` → `Touch ID`
+Open `Touch ID`
 
 * Add fingerprint
 
