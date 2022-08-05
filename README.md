@@ -37,6 +37,7 @@ Save kubeconfig
 ```bash
 mkdir ~/.kube
 nano ~/.kube/config
+chmod 600 ~/.kube/config
 ```
 
 ## Configuration
