@@ -44,7 +44,7 @@ chmod 600 ~/.kube/config
 
 Open `Finder` → `Preferences` → `General`
 
-* `New Finder window show` → select home directory
+* `New Finder windows show` → select home directory
 
 Open `Finder` → `Preferences` → `Advanced`
 
@@ -88,7 +88,7 @@ Open `Touch ID`
 
 ## Setup/Configuration
 
-Run terminal and set white on black color scheme. Then run
+Run
 
 ```bash
 sudo su
@@ -122,7 +122,8 @@ make configure-vs-code
 To install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) run
 
 ```bash
-make install-oh-my-zsh
+make install-oh-my-zsh-1
+make install-oh-my-zsh-2
 ```
 
 To install Homebrew packages run
