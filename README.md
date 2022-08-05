@@ -40,25 +40,36 @@ nano ~/.kube/config
 
 ## Configuration
 
-Open `System Preferences` → `Keyboard`
+Open `Finder` → `Preferences` → `General`
 
-`Keyboard`
+* `New Finder window show` → select home directory
+
+Open `Finder` → `Preferences` → `Advanced`
+
+![Finder preferences advanced](images/finder-preferences-advanced.png)
+
+Open `System Preferences` → `Keyboard` → `Keyboard`
 
 * Enable `Use F1, F2, etc. keys as standard function keys`
 * `Key repeat` - set to the fastest setting
 
-`Input Sources`
+Open `System Preferences` → `Keyboard` → `Input Sources`
 
-Add `Russian - PC`
+* Add `Russian - PC`
 
-Open `Finder` → `Preferences`
+Open `System Preferences` → `Dock & Menu Bar`
 
-Open `General` → `New Finder window show` → select home directory
+* `Minimize windows using` → set `Scale effect`
+* enable `Minimize windows into application icon`
+* enable `Automatically hide and show the Dock`
 
+Open `System Preferences` → `Software Update`
 
-Advanced:
+* enable `Automatically keep my Mac up to date`
 
-![Finder preferences advanced](images/finder-preferences-advanced.png)
+Open `System Preferences` → `Touch ID`
+
+* Add fingerprint
 
 ### Setup VS Code
 
