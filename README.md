@@ -69,12 +69,12 @@ Open `Keyboard` → `Input Sources`
 Open `Dock & Menu Bar`
 
 * `Minimize windows using` → set `Scale effect`
-* enable `Minimize windows into application icon`
-* enable `Automatically hide and show the Dock`
+* Enable `Minimize windows into application icon`
+* Enable `Automatically hide and show the Dock`
 
 Open `Software Update`
 
-* enable `Automatically keep my Mac up to date`
+* Enable `Automatically keep my Mac up to date`
 
 Open `Touch ID`
 
