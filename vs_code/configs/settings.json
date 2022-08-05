@@ -32,6 +32,5 @@
     "editor.defaultFormatter": "yzhang.markdown-all-in-one",
     "editor.formatOnSave": true
   },
-  "editor.mouseWheelZoom": true,
   "workbench.startupEditor": "none"
 }
