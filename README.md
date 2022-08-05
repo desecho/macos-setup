@@ -24,6 +24,11 @@ Install these apps from the App Store:
 
 Type `git` in the terminal - this will install developer tools.
 
+Configure:
+
+* Run Docker
+* Open `Preferences` → `General` → enable `Start Docker Desktop when you log in`
+
 ## Configuration
 
 Open `System Preferences` → `Keyboard`
