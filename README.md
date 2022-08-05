@@ -1,6 +1,6 @@
 # macOS Setup
 
-## Initial setup
+## Install apps
 
 Install these apps:
 
@@ -22,22 +22,6 @@ Install these apps from the App Store:
 * [VPN for privacy | NordVPN](https://apps.apple.com/ca/app/vpn-for-privacy-nordvpn/id905953485)
 
 Type `git` in the terminal - this will install developer tools.
-
-Configure:
-
-* Run Docker
-* Open `Preferences` → `General` → enable `Start Docker Desktop when you log in`
-* Open `Preferences` → `Software updates` → enable `Always download updates`
-
-### Configure kubectl
-
-Save kubeconfig
-
-```bash
-mkdir ~/.kube
-nano ~/.kube/config
-chmod 600 ~/.kube/config
-```
 
 ## Configuration
 
@@ -85,7 +69,23 @@ Open `Touch ID`
 * Launch VS Code
 * Open the Command Palette [Cmd + Shift + P] and type `Install 'code' command in PATH`
 
-## Setup/Configuration
+### Configure Docker
+
+* Run Docker
+* Open `Preferences` → `General` → enable `Start Docker Desktop when you log in`
+* Open `Preferences` → `Software updates` → enable `Always download updates`
+
+### Configure kubectl
+
+Save kubeconfig
+
+```bash
+mkdir ~/.kube
+nano ~/.kube/config
+chmod 600 ~/.kube/config
+```
+
+## Setup/Configuration Part 2
 
 Run
 
