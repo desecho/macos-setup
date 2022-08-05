@@ -10,7 +10,6 @@ Install these apps:
 * [Docker](https://docs.docker.com/engine/install/)
 * [1Password](https://1password.com/)
 * [Homebrew](http://brew.sh/)
-* [Cakebrew](https://www.cakebrew.com/)
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
 * [NordLocker](https://nordlocker.com/download/mac/)
