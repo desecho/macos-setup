@@ -74,6 +74,6 @@ function forcekill() {
 #------------------------------------------------------------------------------
 # Replacements
 alias ls=exa
-alias cat=batcat
-alias ocat=/usr/bin/cat
+alias cat=bat
+alias ocat=/bin/cat
 #------------------------------------------------------------------------------
