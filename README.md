@@ -29,6 +29,15 @@ Configure:
 * Run Docker
 * Open `Preferences` → `General` → enable `Start Docker Desktop when you log in`
 
+### Configure kubectl
+
+Save kubeconfig
+
+```bash
+mkdir ~/.kube
+nano ~/.kube/config
+```
+
 ## Configuration
 
 Open `System Preferences` → `Keyboard`
