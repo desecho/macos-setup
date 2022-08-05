@@ -42,7 +42,12 @@ Open `System Preferences` → `Keyboard`
 
 Add `Russian - PC`
 
-Open `Finder` → `Preferences` → `Advanced`
+Open `Finder` → `Preferences`
+
+Open `General` → `New Finder window show` → select home directory
+
+
+Advanced:
 
 ![Finder preferences advanced](images/finder-preferences-advanced.png)
 
