@@ -27,3 +27,4 @@ brew install mysql-client
 echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
 
 brew install --cask cakebrew
+brew install --cask dbeaver-community

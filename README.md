@@ -37,6 +37,8 @@ Open `Contacts` → `Preferences` → `General`
 
 * `Sort By` → select `First Name`
 
+Open `Contacts` → `File` → `New Smart Group` → Card/is not member of/any group.
+
 ### System preferences
 
 Open `System Preferences`
