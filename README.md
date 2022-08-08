@@ -25,19 +25,27 @@ Type `git` in the terminal - this will install developer tools.
 
 ## Configuration
 
-Open `Finder` → `Preferences` → `General`
+### Finder
+
+Open `Finder`
+
+Open `Preferences` → `General`
 
 * `New Finder windows show` → select home directory
 
-Open `Finder` → `Preferences` → `Advanced`
+Open `Preferences` → `Advanced`
 
 ![Finder preferences advanced](images/finder-preferences-advanced.png)
 
-Open `Contacts` → `Preferences` → `General`
+### Contacts
+
+Open `Contacts`
+
+Open `Preferences` → `General`
 
 * `Sort By` → select `First Name`
 
-Open `Contacts` → `File` → `New Smart Group` → Card/is not member of/any group.
+Open `File` → `New Smart Group` → Card/is not member of/any group.
 
 ### System preferences
 
@@ -51,6 +59,12 @@ Open `Keyboard` → `Keyboard`
 Open `Keyboard` → `Input Sources`
 
 * Add `Russian - PC`
+
+Open `Keyboard` → `Text`
+
+* Disable `Correct spelling automatically`
+* Disable `Capitalize words automatically`
+* Disable `Add a period with double-space`
 
 Open `Dock & Menu Bar`
 
