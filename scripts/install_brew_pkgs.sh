@@ -3,6 +3,7 @@
 set -eou pipefail
 
 brew install mc
+brew install nano
 brew install wget
 brew install jq
 brew install shellcheck
