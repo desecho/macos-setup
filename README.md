@@ -13,6 +13,7 @@ Install these apps:
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
 * [NordLocker](https://nordlocker.com/download/mac/)
+* [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 
 Install these apps from the App Store:
 
@@ -24,6 +25,10 @@ Install these apps from the App Store:
 Type `git` in the terminal - this will install developer tools.
 
 ## Configuration
+
+## Scroll Reverser
+
+TBD
 
 ### Finder
 
