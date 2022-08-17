@@ -8,19 +8,14 @@ Install these apps:
 * [VS Code](https://code.visualstudio.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Docker](https://docs.docker.com/engine/install/)
-* [1Password](https://1password.com/)
 * [Homebrew](http://brew.sh/)
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
-* [NordLocker](https://nordlocker.com/download/mac/)
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 
 Install these apps from the App Store:
 
-* [Simplenote - Notes and Memos](https://apps.apple.com/ca/app/simplenote-notes-and-memos/id692867256?mt=12)
 * [Xcode](https://apps.apple.com/ca/app/xcode/id497799835?mt=12)
-* [1Password for Safari](https://apps.apple.com/ca/app/1password-for-safari/id1569813296?mt=12)
-* [VPN for privacy | NordVPN](https://apps.apple.com/ca/app/vpn-for-privacy-nordvpn/id905953485)
 
 Type `git` in the terminal - this will install developer tools.
 
