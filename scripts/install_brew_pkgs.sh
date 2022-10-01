@@ -16,6 +16,7 @@ brew install helm
 brew install yq
 brew install yh
 brew install tflint
+brew install noahgorstein/tap/jqp
 brew install s3cmd
 brew install shfmt
 brew install actionlint
