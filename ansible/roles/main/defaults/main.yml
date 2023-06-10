@@ -1,5 +1,5 @@
 ---
-ansible_python_interpreter: /opt/homebrew/opt/python@3.10/bin/python3
+ansible_python_interpreter: /opt/homebrew/opt/python@3.10/bin/python3.10
 
 npm_packages:
   - yarn
