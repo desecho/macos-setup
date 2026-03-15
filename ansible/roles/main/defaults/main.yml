@@ -1,12 +1,10 @@
 ---
-ansible_python_interpreter: /opt/homebrew/opt/python@3.10/bin/python3.10
+ansible_python_interpreter: /opt/homebrew/opt/python@3.13/bin/python3.13
 
 npm_packages:
   - yarn
-  - fx
   - markdownlint-cli
   - prettier
-  - markdown-link-check
   - json2yaml
   - "@vue/cli"
 

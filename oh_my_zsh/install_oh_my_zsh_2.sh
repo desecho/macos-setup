@@ -6,7 +6,7 @@ git clone "https://github.com/zsh-users/zsh-syntax-highlighting.git" "$HOME/.oh-
 git clone "https://github.com/zsh-users/zsh-autosuggestions" "$HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions"
 
 SHELL_INIT_FILE="${HOME}/.zshrc"
-PLUGINS="git docker docker-compose thefuck alias-finder systemd aliases vscode ansible screen terraform helm kubectl colored-man-pages npm man python command-not-found sudo gitfast node gitignore pip golang zsh-autosuggestions zsh-syntax-highlighting"
+PLUGINS="git docker docker-compose alias-finder systemd aliases vscode ansible screen terraform helm kubectl colored-man-pages npm man python command-not-found sudo gitfast node gitignore pip golang zsh-autosuggestions zsh-syntax-highlighting"
 CUSTOM_PLUGINS="doctl"
 
 sed -i "" "s/plugins=(git)/plugins=($PLUGINS $CUSTOM_PLUGINS)/g" "$SHELL_INIT_FILE"

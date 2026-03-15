@@ -21,9 +21,9 @@ brew install s3cmd
 brew install shfmt
 brew install actionlint
 brew install djhtml
-brew install python@3.10
+brew install python@3.13
 # shellcheck disable=SC2016
-echo 'export PATH="/opt/homebrew/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
+echo 'export PATH="/opt/homebrew/opt/python@3.13/bin:$PATH"' >> ~/.zshrc
 
 brew install mysql-client
 # shellcheck disable=SC2016
