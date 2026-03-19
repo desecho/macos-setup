@@ -88,7 +88,6 @@ lint:
 	$(call print,Linting)
 	@shfmt -l -d .
 	@scripts/shellcheck.sh
-	@markdownlint README.md
 	@actionlint
 	@prettier --check ./.github/**/*.yaml ./**/*.yaml
 	@prettier --check ./**/*.json
@@ -98,7 +97,6 @@ lint:
 format:
 	$(call print,Formatting files)
 	@shfmt -l -w .
-	@markdownlint README.md --fix
 	@prettier --write ./.github/**/*.yaml ./**/*.yaml
 	@prettier --write ./**/*.json
 #------------------------------------
