@@ -11,11 +11,16 @@ Install these apps:
 * [Homebrew](http://brew.sh/)
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
+* [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 
 Install these apps from the App Store:
 
 * [Xcode](https://apps.apple.com/ca/app/xcode/id497799835?mt=12)
+
+Install JetBrains Mono Font
+
+* [JetBrains Mono Font](https://www.jetbrains.com/lp/mono/)
 
 Type `git` in the terminal - this will install developer tools.
 

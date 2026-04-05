@@ -1,0 +1,7 @@
+---
+- name: Add kitty config
+  template:
+    src: kitty.conf
+    dest: "{{ lookup('env', 'HOME') }}/.config/kitty/kitty.conf"
+    owner: "{{ lookup('env', 'USER') }}"
+    mode: "600"
