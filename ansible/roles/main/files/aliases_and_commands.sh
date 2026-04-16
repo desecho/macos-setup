@@ -62,7 +62,7 @@ alias grc="git rebase --continue"
 alias gri="git rebase -i"
 alias fastcommit="git add . && git commit -m'Changes'"
 alias fastpush="fastcommit && git push"
-alias cc="claude --dangerously-skip-permissions"
+alias cc="claude"
 #------------------------------------------------------------------------------
 # Other
 
