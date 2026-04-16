@@ -1,0 +1,7 @@
+---
+- name: Add claude config
+  template:
+    src: settings.json
+    dest: "{{ lookup('env', 'HOME') }}/.claude/settings.json"
+    owner: "{{ lookup('env', 'USER') }}"
+    mode: "600"

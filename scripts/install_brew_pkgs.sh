@@ -31,3 +31,4 @@ echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
 
 brew install --cask cakebrew
 brew install --cask dbeaver-community
+brew install --cask claude-code

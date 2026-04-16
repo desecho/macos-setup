@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
+  "permissions": {
+    "allow": [
+      "Bash(ruff check *)",
+      "Bash(sed 's/:.*$//')",
+      "Bash(xargs -I {} find {} -name \"*.py\")",
+      "Bash(grep *)",
+      "Bash(find *)",
+      "Bash(xargs ls *)"
+    ],
+    "defaultMode": "acceptEdits"
+  },
+  "model": "opus",
+  "enabledPlugins": {
+    "game-sounds@citedy": true,
+    "frontend-design@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "revdiff@revdiff": true,
+    "commit-commands@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "explanatory-output-style@claude-plugins-official": true,
+    "pr-review-toolkit@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "citedy": {
+      "source": {
+        "source": "github",
+        "repo": "citedy/claude-plugins"
+      }
+    },
+    "revdiff": {
+      "source": {
+        "source": "github",
+        "repo": "umputun/revdiff"
+      }
+    }
+  },
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "high",
+  "autoUpdatesChannel": "latest",
+  "skipDangerousModePermissionPrompt": true,
+  "voiceEnabled": false
+}

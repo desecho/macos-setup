@@ -13,6 +13,7 @@ Install these apps:
 * [Node.js](https://nodejs.org/en/)
 * [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
+* [Claude Code](https://code.claude.com/docs/en/overview)
 
 Install these apps from the App Store:
 

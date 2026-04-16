@@ -7,3 +7,4 @@
 - include: git.yml
 - include: misc.yml
 - include: kitty.yml
+- include: claude.yml
