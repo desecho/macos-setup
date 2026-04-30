@@ -42,6 +42,5 @@
   "alwaysThinkingEnabled": true,
   "effortLevel": "high",
   "autoUpdatesChannel": "latest",
-  "skipDangerousModePermissionPrompt": true,
   "voiceEnabled": false
 }
