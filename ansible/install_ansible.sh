@@ -2,7 +2,7 @@
 
 set -eou pipefail
 
-ANSIBLE_VERSION=3.1.0
+ANSIBLE_VERSION=13.6.0
 
 LC_ALL=C
 

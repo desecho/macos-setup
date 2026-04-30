@@ -5,4 +5,4 @@
     dest: "{{ lookup('env', 'HOME') }}/.gitconfig"
     owner: "{{ lookup('env', 'USER') }}"
     mode: "600"
-  when: full_name and email
+  when: full_name is defined and email is defined

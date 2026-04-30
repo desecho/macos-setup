@@ -7,13 +7,14 @@ Install these apps:
 * [iTerm2](http://www.iterm2.com/)
 * [VS Code](https://code.visualstudio.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
-* [Docker](https://docs.docker.com/engine/install/)
+* [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 * [Homebrew](http://brew.sh/)
 * [Go](https://go.dev/dl/)
 * [Node.js](https://nodejs.org/en/)
 * [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
-* [Claude Code](https://code.claude.com/docs/en/overview)
+* [1Password](https://1password.com/downloads/mac)
+* [Claude Code](https://code.claude.com/docs/en/overview#native-install-recommended)
 
 Install these apps from the App Store:
 
@@ -65,12 +66,6 @@ Open `Keyboard` → `Keyboard`
 Open `Keyboard` → `Input Sources`
 
 * Add `Russian - PC`
-
-Open `Keyboard` → `Text`
-
-* Disable `Correct spelling automatically`
-* Disable `Capitalize words automatically`
-* Disable `Add a period with double-space`
 
 Open `Dock & Menu Bar`
 

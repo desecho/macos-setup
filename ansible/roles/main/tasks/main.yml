@@ -1,10 +1,10 @@
 ---
-- include: packages/npm.yml
+- include_tasks: packages/npm.yml
 
-- include: doctl.yml
-- include: s3cmd.yml
-- include: aliases_and_commands.yml
-- include: git.yml
-- include: misc.yml
-- include: kitty.yml
-- include: claude.yml
+- include_tasks: doctl.yml
+- include_tasks: s3cmd.yml
+- include_tasks: aliases_and_commands.yml
+- include_tasks: git.yml
+- include_tasks: misc.yml
+- include_tasks: kitty.yml
+- include_tasks: claude.yml

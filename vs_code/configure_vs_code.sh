@@ -48,7 +48,6 @@ code --install-extension bungcip.better-toml
 # Misc
 code --install-extension editorconfig.editorconfig
 code --install-extension waderyan.gitblame
-code --install-extension github.copilot
 code --install-extension mohsen1.prettify-json
 code --install-extension geddski.macros
 # --------------------------------------------------------------------------------

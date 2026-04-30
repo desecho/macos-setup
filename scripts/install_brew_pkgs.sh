@@ -7,7 +7,6 @@ brew install nano
 brew install wget
 brew install jq
 brew install shellcheck
-brew install exa
 brew install bat
 brew install ncdu
 brew install kubectl
@@ -30,6 +29,5 @@ brew install mysql-client
 # shellcheck disable=SC2016
 echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
 
-brew install --cask cakebrew
 brew install --cask dbeaver-community
 brew install --cask claude-code
